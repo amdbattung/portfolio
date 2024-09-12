@@ -27,7 +27,7 @@ function Details() {
     };
 
     return (
-        <section class="m-5 p-5 flex items-center justify-center overflow-hidden">
+        <section class="m-5 p-5 flex items-center justify-center overflow-hidden animate-appear delay-100 fill-mode-forwards opacity-0">
             <button class="disabled:opacity-0" onClick={prevItem} disabled={ currentIndex < items.length - 1 }>
                 <LeftArrow class="fill-white w-9 h-min" />
             </button>

@@ -1,7 +1,7 @@
 function Accomplishments() {
     return (
         <>
-            <table class="w-full table-auto border-collapse border border-slate-500 text-lg">
+            <table class="w-full table-auto border-collapse border border-slate-500 text-lg animate-appear delay-75 fill-mode-forwards opacity-0">
                 <thead>
                     <tr>
                         <th class="p-3 bg-slate-700 bg-opacity-70 border border-slate-600 uppercase">Education</th>
@@ -30,7 +30,7 @@ function Accomplishments() {
                 </tbody>
             </table>
 
-            <table class="w-full table-auto border-collapse border border-slate-500 text-lg">
+            <table class="w-full table-auto border-collapse border border-slate-500 text-lg animate-appear delay-75 fill-mode-forwards opacity-0">
                 <thead>
                     <tr>
                         <th class="p-3 bg-slate-700 bg-opacity-70 border border-slate-600 uppercase">Work Experience</th>
@@ -51,7 +51,7 @@ function Accomplishments() {
                 </tbody>
             </table>
 
-            <table class="w-full table-auto border-collapse border border-slate-500 text-lg">
+            <table class="w-full table-auto border-collapse border border-slate-500 text-lg animate-appear delay-75 fill-mode-forwards opacity-0">
                 <thead>
                     <tr>
                         <th class="p-3 bg-slate-700 bg-opacity-70 border border-slate-600 uppercase">Certifications</th>

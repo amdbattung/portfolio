@@ -1,7 +1,7 @@
 function MainDetails() {
     return (
         <>
-            <table class="w-full table-auto border-collapse border border-slate-500 text-lg">
+            <table class="w-full table-auto border-collapse border border-slate-500 text-lg animate-appear delay-75 fill-mode-forwards opacity-0">
                 <thead>
                     <tr>
                         <th class="p-3 bg-slate-700 bg-opacity-70 border border-slate-600 uppercase">About Me</th>
@@ -14,7 +14,7 @@ function MainDetails() {
                 </tbody>
             </table>
 
-            <table class="w-full able-auto border-collapse border border-slate-500 text-lg">
+            <table class="w-full able-auto border-collapse border border-slate-500 text-lg animate-appear delay-75 fill-mode-forwards opacity-0">
                 <thead>
                     <tr>
                         <th class="p-3 bg-slate-700 bg-opacity-70 border border-slate-600 uppercase" colSpan={2}>Skills</th>
