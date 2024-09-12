@@ -27,23 +27,23 @@ function MainDetails() {
                     </tr>
                     <tr>
                         <td class="pl-10 bg-slate-800 bg-opacity-70">• ASP.NET Core</td>
-                        <td class="pl-10 bg-slate-800 bg-opacity-70">• MySQL</td>
+                        <td class="pl-10 bg-slate-800 bg-opacity-70">• React</td>
                     </tr>
                     <tr>
                         <td class="pl-10 bg-slate-800 bg-opacity-70">• Javascript</td>
-                        <td class="pl-10 bg-slate-800 bg-opacity-70">• Redis</td>
+                        <td class="pl-10 bg-slate-800 bg-opacity-70">• MySQL</td>
                     </tr>
                     <tr>
                         <td class="pl-10 bg-slate-800 bg-opacity-70">• REST</td>
-                        <td class="pl-10 bg-slate-800 bg-opacity-70">• Docker</td>
+                        <td class="pl-10 bg-slate-800 bg-opacity-70">• Redis</td>
                     </tr>
                     <tr>
                         <td class="pl-10 bg-slate-800 bg-opacity-70">• EF Core</td>
-                        <td class="pl-10 bg-slate-800 bg-opacity-70">• Git</td>
+                        <td class="pl-10 bg-slate-800 bg-opacity-70">• Docker</td>
                     </tr>
                     <tr>
                         <td class="pb-4 pl-10 bg-slate-800 bg-opacity-70">• AWS</td>
-                        <td class="pb-4 pl-10 bg-slate-800 bg-opacity-70"></td>
+                        <td class="pb-4 pl-10 bg-slate-800 bg-opacity-70">• Git</td>
                     </tr>
                 </tbody>
             </table>
