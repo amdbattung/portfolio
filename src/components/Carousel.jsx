@@ -17,9 +17,9 @@ function Carousel({ items }) {
     };
 
     return (
-        <div class="flex items-center justify-center">
+        <div className="flex items-center justify-center">
             <button onClick={prevItem}>&lt;</button>
-            <div class="my-2 p-2 border w-full text-center">
+            <div className="my-2 p-2 border w-full text-center">
                 {items[currentIndex]}
             </div>
             <button onClick={nextItem}>&gt;</button>

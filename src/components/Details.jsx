@@ -27,15 +27,15 @@ function Details() {
     };
 
     return (
-        <section class="m-5 p-5 flex items-center justify-center overflow-hidden animate-appear delay-100 fill-mode-forwards opacity-0">
-            <button class="disabled:opacity-0" onClick={prevItem} disabled={ currentIndex < items.length - 1 }>
-                <LeftArrow class="fill-white w-9 h-min" />
+        <section className="m-5 p-5 flex items-center justify-center overflow-hidden animate-appear delay-100 fill-mode-forwards opacity-0">
+            <button className="disabled:opacity-0" onClick={prevItem} disabled={ currentIndex < items.length - 1 }>
+                <LeftArrow className="fill-white w-9 h-min" />
             </button>
-            <div class="w-full flex flex-col items-center p-7 gap-8">
+            <div className="w-full flex flex-col items-center p-7 gap-8">
                 {items[currentIndex]}
             </div>
-            <button class="disabled:opacity-0" onClick={nextItem} disabled={ currentIndex >= 1 }>
-                <RightArrow class="fill-white w-9 h-min" />
+            <button className="disabled:opacity-0" onClick={nextItem} disabled={ currentIndex >= 1 }>
+                <RightArrow className="fill-white w-9 h-min" />
             </button>
         </section>
     )
