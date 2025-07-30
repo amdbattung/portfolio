@@ -48,6 +48,17 @@ function Accomplishments() {
                             </div>
                         </td>
                     </tr>
+                    <tr>
+                        <td className="p-4 bg-slate-800 bg-opacity-70 border border-slate-700 flex">
+                            <div className="flex-grow text-left mr-3">
+                                <b className="text-xl">GCM3, Inc.</b> <br />
+                                <i>Associate Software Developer</i>
+                            </div>
+                            <div className="flex-1 text-right text-base">
+                                November 2024 to Present
+                            </div>
+                        </td>
+                    </tr>
                 </tbody>
             </table>
 

@@ -9,7 +9,7 @@ function MainDetails() {
                 </thead>
                 <tbody className="text-justify">
                     <tr>
-                        <td className="p-4 bg-slate-800 bg-opacity-70 border border-slate-700">A backend engineer primarily building REST APIs in .NET and has worked in several small to medium-sized projects throughout the years. An excellent detail-oriented programmer who is passionate at what I do. I am a fresh graduate with a Bachelor of Science degree in Information Technology. Determined to work hard and gain experience, I never tire of learning exciting new things in the continuously changing IT industry.</td>
+                        <td className="p-4 bg-slate-800 bg-opacity-70 border border-slate-700">A backend engineer primarily building REST APIs in .NET and has worked in several small to medium-sized projects throughout the years. An excellent detail-oriented programmer who is passionate at what I do, I never tire of learning exciting new things in the continuously changing IT industry.</td>
                     </tr>
                 </tbody>
             </table>
